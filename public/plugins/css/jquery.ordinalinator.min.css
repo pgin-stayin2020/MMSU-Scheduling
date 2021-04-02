@@ -1,0 +1,1 @@
+.ordinal.ord-th:after { content:"th"; }  .ordinal.ord-nd:after { content:"nd"; }  .ordinal.ord-rd:after { content:"rd"; }  .ordinal.ord-st:after { content:"st"; }  .ordinal.ord-th:after,.ordinal.ord-rd:after,.ordinal.ord-st:after,.ordinal.ord-nd:after { vertical-align:super; font-size:.6em; }
